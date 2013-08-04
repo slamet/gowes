@@ -1,0 +1,77 @@
+.full-article h3 {
+  margin: 10px 0 0px 0 !important;
+  padding: 0px !important;
+  color: #444 !important;
+  font-size: 20px !important;
+  font-style: normal;
+  font-weight: bold !important; }
+  .full-article h3 small {
+    float: right;
+    margin-top: 3px;
+    margin-left: 10px;
+    font-size: 12px; }
+    .full-article h3 small a {
+      color: #1F82BC;
+      text-decoration: none; }
+      .full-article h3 small a:hover {
+        text-decoration: underline; }
+.full-article > p {
+  margin: 5px 0 0 0;
+  font-size: 12px; }
+.full-article .body {
+  margin: 30px 0px;
+  color: #707380; }
+  .full-article .body ul {
+    padding-left: 20px; }
+  .full-article .body p {
+    color: #707380; }
+  .full-article .body a {
+    color: #1F82BC;
+    text-decoration: none; }
+    .full-article .body a:hover {
+      text-decoration: underline; }
+.full-article #disqus_thread {
+  padding-top: 30px; }
+  .full-article #disqus_thread h3 {
+    font-size: 16px !important;
+    margin-bottom: 10px !important; }
+  .full-article #disqus_thread .dsq-subscribe-email, .full-article #disqus_thread .dsq-subscribe-rss, .full-article #disqus_thread #dsq-account-dropdown a {
+    font-size: 12px;
+    color: #1F82BC; }
+.full-article .dsq-brlink {
+  font-size: 12px;
+  color: #1F82BC; }
+
+#articles-page .content a {
+  color: #1F82BC;
+  text-decoration: none; }
+  #articles-page .content a:hover {
+    text-decoration: underline; }
+#articles-page .articles {
+  list-style: none;
+  margin: 15px 0 0 0px;
+  padding: 0px; }
+  #articles-page .articles li.article {
+    margin-bottom: 15px; }
+    #articles-page .articles li.article h3 {
+      margin: 0px;
+      padding: 0px;
+      color: #707380;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: bold; }
+      #articles-page .articles li.article h3 a {
+        color: #444;
+        text-decoration: none; }
+      #articles-page .articles li.article h3 em {
+        font-weight: bold; }
+    #articles-page .articles li.article p {
+      margin: 5px 0 0 0;
+      font-size: 12px; }
+    #articles-page .articles li.article .body {
+      margin: 10px 0px;
+      color: #707380; }
+#articles-page .pagination {
+  text-align: center; }
+  #articles-page .pagination .prev_page, #articles-page .pagination .current, #articles-page .pagination a, #articles-page .pagination .next_page {
+    margin: 0 3px; }
